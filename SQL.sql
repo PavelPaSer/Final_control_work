@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS `Друзья человека`;
-USE `Друзья человека`;
+CREATE DATABASE IF NOT EXISTS `Human_Friends`;
+USE `Human_Friends`;
 
 CREATE TABLE IF NOT EXISTS `animals` (
     `id` INT AUTO_INCREMENT PRIMARY KEY,
